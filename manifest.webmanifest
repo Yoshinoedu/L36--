@@ -1,0 +1,17 @@
+{
+  "name": "Lesson 36 話法 練習帳",
+  "short_name": "Lesson 36",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff3f0",
+  "theme_color": "#fff3f0",
+  "icons": [
+    {
+      "src": "./assets/tomato.png",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
